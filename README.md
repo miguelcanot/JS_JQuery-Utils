@@ -1,4 +1,4 @@
-# JS_JQuery-Utils
+# JS, JQuery Utils
 Methods for different processes in JS, JQuery.
 
 # License
